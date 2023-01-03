@@ -4,4 +4,4 @@ class Conta:
 
     def __init__(self):
 
-        print("Construindo objeto...")
+        print("Construindo objeto... {}".format(self))
